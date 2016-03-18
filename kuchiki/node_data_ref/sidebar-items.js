@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NodeDataRef","Holds a strong reference to a node, but dereferences to some component inside of it."]]});

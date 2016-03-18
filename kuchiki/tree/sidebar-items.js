@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["NodeData","Node data specific to the node type."]],"struct":[["Doctype","Data specific to doctype nodes."],["DocumentData","Data specific to document nodes."],["ElementData","Data specific to element nodes."],["Node","A node inside a DOM-like tree."],["NodeRef","A strong reference to a node."]]});
